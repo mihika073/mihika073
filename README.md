@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihika073&label=Profile%20views&color=0e75b6&style=flat" alt="mihika073" /> </p>
 
-- 🔭 I’m currently working on **Business Optimization projects**
+- 🔭 I’m currently working on **Business Optimization Projects**
 
-- 👯 I’m looking to collaborate on **Data driven products**
+- 👯 I’m looking to collaborate on **Data Driven Products**
 
 - 💬 Ask me about **I'm always up for a good conversation, whether it's about the latest news, pop culture trends, philosophical musings, or even just random musings that catch my attention. And if you want to talk about something that really gets my gears turning, let's dive into the fascinating world of data-driven products like Spotify! It's amazing to see how companies are using data to create personalized experiences and improve user engagement, and I'd love to hear your thoughts on the topic. So, what do you say? Let's chat and explore some of the most interesting and thought-provoking topics out there!**
 
