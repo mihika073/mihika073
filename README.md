@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihika073&label=Profile%20views&color=0e75b6&style=flat" alt="mihika073" /> </p>
 
-- 🔭 I’m currently working on **Business Optimization Projects**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihika073" alt="mihika073" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Data Driven Products**
+- 🔭 I’m currently working on **Business Optimization projects**
+
+- 👯 I’m looking to collaborate on **Data driven products**
 
 - 📫 How to reach me **srivastavamihika07@gmail.com**
 
