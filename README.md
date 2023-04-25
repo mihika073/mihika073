@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Data driven products**
 
-- 📫 How to reach me **srivastavamihika07@gmail.com**
+- 💬 Ask me about **I'm always up for a good conversation, whether it's about the latest news, pop culture trends, philosophical musings, or even just random musings that catch my attention. And if you want to talk about something that really gets my gears turning, let's dive into the fascinating world of data-driven products like Spotify! It's amazing to see how companies are using data to create personalized experiences and improve user engagement, and I'd love to hear your thoughts on the topic. So, what do you say? Let's chat and explore some of the most interesting and thought-provoking topics out there!**
 
-- ⚡ Fun fact **I'm always up for a good conversation, whether it's about the latest news, pop culture trends, philosophical musings, or even just random musings that catch my attention. And if you want to talk about something that really gets my gears turning, let's dive into the fascinating world of data-driven products like Spotify! It's amazing to see how companies are using data to create personalized experiences and improve user engagement, and I'd love to hear your thoughts on the topic. So, what do you say? Let's chat and explore some of the most interesting and thought-provoking topics out there!**
+- 📫 How to reach me **srivastavamihika07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
