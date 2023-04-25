@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihika073&label=Profile%20views&color=0e75b6&style=flat" alt="mihika073" /> </p>
 
-- 🔭 I’m currently working on **Business Optimization projects**
+- 🔭 I’m currently working on **Business Optimization Projects**
 
-- 👯 I’m looking to collaborate on **Data driven products**
+- 👯 I’m looking to collaborate on **Data Driven Products**
 
 - 📫 How to reach me **srivastavamihika07@gmail.com**
 
